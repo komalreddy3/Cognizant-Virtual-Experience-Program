@@ -32,7 +32,7 @@ The client has provided 3 datasets, it is now your job to combine, transform and
 
 Most importantly, once the modeling process is complete, we need you to communicate your work and analysis in the form of a single PowerPoint slide, so that we can present the results back to the business. The key here is to use business-friendly language and to explain your results in a way that the business will understand. For example, ensure that when you’re summarizing the performance of the results you don’t use technical metrics, but rather convert it into numbers that they’ll understand. 
 
-# TASK 4: Machine Learning Production
+# Task 4: Machine Learning Production
 
 Gala Groceries saw the results of the machine learning model as promising and believe that with more data and time, it can add real value to the business.
 
