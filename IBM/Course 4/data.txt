@@ -1,2 +1,0 @@
-Human_Activity_Recognition_Using_Smartphones_Data
-use it by downloading from coursera
