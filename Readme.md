@@ -1,8 +1,6 @@
 # Cognizant Virtual Experience Program - Forage
 ## Artificial Intelligence
 
-<img width="330" alt="image" src="https://github.com/komalreddy3/Machine-Learning/assets/82363361/f46eab44-73e1-44cd-9728-b150c65f3c7c">
-
 # Task 1: Exploratory Data Analysis
 
 Gala Groceries is a technology-led grocery store chain based in the USA. They rely heavily on new technologies, such as IoT to give them a competitive edge over other grocery stores. 
